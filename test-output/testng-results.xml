@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-23T14:02:09 IST" name="Default suite" finished-at="2023-11-23T14:02:40 IST" duration-ms="31450">
+    <groups>
+    </groups>
+    <test started-at="2023-11-23T14:02:09 IST" name="Default test" finished-at="2023-11-23T14:02:40 IST" duration-ms="31450">
+      <class name="initialScreening.TableAutomation">
+        <test-method is-config="true" signature="setup()[pri:0, instance:initialScreening.TableAutomation@59505b48]" started-at="2023-11-23T14:02:09 IST" name="setup" finished-at="2023-11-23T14:02:18 IST" duration-ms="9164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testTableAutomation()[pri:0, instance:initialScreening.TableAutomation@59505b48]" started-at="2023-11-23T14:02:18 IST" name="testTableAutomation" finished-at="2023-11-23T14:02:40 IST" duration-ms="21734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTableAutomation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:initialScreening.TableAutomation@59505b48]" started-at="2023-11-23T14:02:40 IST" name="tearDown" finished-at="2023-11-23T14:02:40 IST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- initialScreening.TableAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
